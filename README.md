@@ -47,11 +47,6 @@ I'm a final-year B.Tech CSE graduate currently applying to Software Engineer and
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kcrage&theme=github_dark&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&icon_color=FF2BD6&border_color=30363D&animation=rgb-soft&duration=6" width="48%" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kcrage&theme=github_dark&bg_color=0D1117&text_color=C9D1D9&chart_color=39D353&border_color=30363D&animation=stagger&duration=1.5" width="48%" alt="Repos per language" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kcrage&theme=github_dark&bg_color=0D1117&text_color=C9D1D9&border_color=30363D" width="48%" alt="Productive time" />
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kcrage/Kcrage/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kcrage/Kcrage/output/snake-light.svg">
