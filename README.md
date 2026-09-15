@@ -4,7 +4,7 @@
   <img src="assets/hero-dark.svg" alt="Kartik Chauhan, Aspiring Software Engineer" width="100%">
 </picture>
 
-**Kartik Chauhan**, Aspiring Software Engineer 
+**Kartik Chauhan**, Aspiring Software Engineer (in case the fancy banner above didn't load, hi 👋)
 
 ## About me
 
@@ -41,10 +41,6 @@ I'm a final-year B.Tech CSE grad (2026, CGPA 7.2) currently applying to Software
 
 <p align="center">
   <img src="assets/streak.svg" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kcrage&name=Kcrage&theme=github_dark&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&border_color=30363D&animation=fade&duration=1.2" width="80%" alt="Profile details" />
 </p>
 
 <p align="center">
