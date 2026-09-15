@@ -4,7 +4,7 @@
   <img src="assets/hero-dark.svg" alt="Kartik Chauhan, Aspiring Software Engineer" width="100%">
 </picture>
 
-**Kartik Chauhan**, Aspiring Software Engineer (in case the fancy banner above didn't load, hi 👋)
+**Kartik Chauhan**, Aspiring Software Engineer 
 
 ## About me
 
