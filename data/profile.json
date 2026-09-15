@@ -1,27 +1,23 @@
 {
   "name": "Kartik Chauhan",
   "handle": "Kcrage",
-  "role": "Aspiring Software Engineer",
+  "role": "Software Engineer / GET",
   "education": "B.Tech CSE, 2026",
   "experienceLabel": "Fresher",
+  "focus": "MERN Stack Development",
   "stats": {
-    "cgpa": "7.2",
-    "projectsShipped": "4",
-    "dsaFocus": "C++ / DSA",
-    "stackScope": "Java, Python, C++, JS, SQL"
+    "projectsShipped": "4 Featured",
+    "coreSkills": "C++ / Java / Python / SQL",
+    "development": "MongoDB, Express, React, Node.js",
+    "problemSolving": "DSA / C++"
   },
   "status": {
     "state": "OPEN TO WORK",
-    "note": "actively applying 🚀"
-  },
-  "grind": {
-    "namespace": "dsa-practice",
-    "verdict": "DAILY",
-    "caption": "patterns on repeat 👀"
+    "note": "Software Engineer / GET"
   },
   "footer": {
     "prompt": "kcrage@dev:~$ status --check",
     "response": "Open to Software Engineer / GET roles. 🚀"
   },
-  "sparklineCaption": "leetcode streak 📈 (for vibes, not a real dashboard)"
+  "sparklineCaption": "building • learning • shipping"
 }
