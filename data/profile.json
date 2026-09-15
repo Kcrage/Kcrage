@@ -12,12 +12,12 @@
   },
   "status": {
     "state": "OPEN TO WORK",
-    "note": "actively applying, ready to relocate 🚀"
+    "note": "actively applying 🚀"
   },
   "grind": {
     "namespace": "dsa-practice",
     "verdict": "DAILY",
-    "caption": "sliding window & hashmaps on repeat 👀"
+    "caption": "patterns on repeat 👀"
   },
   "footer": {
     "prompt": "kcrage@dev:~$ status --check",
