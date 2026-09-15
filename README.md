@@ -8,7 +8,7 @@
 
 ## About me
 
-I'm a final-year B.Tech CSE grad (2026, CGPA 7.2) currently applying to Software Engineer and Graduate Engineer Trainee roles. I like taking DSA problems apart until they actually make sense, building small full-stack projects end-to-end just to see how the pieces fit together, and right now I'm deep in interview prep — DBMS, OS, and a lot of C++ 🧠
+I'm a final-year B.Tech CSE graduate currently applying to Software Engineer and Graduate Engineer Trainee roles. I like taking DSA problems apart until they actually make sense, building small full-stack projects end-to-end just to see how the pieces fit together, and right now I'm deep in interview prep — DBMS, OS, and a lot of C++ 🧠
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/signature-card-dark.svg">
